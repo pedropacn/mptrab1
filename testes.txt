@@ -1,1 +1,0 @@
-no primeiro teste, a entrada só podera ter números menores do que 10 e não poderam ser adicionados delimitadores, e com um input único
